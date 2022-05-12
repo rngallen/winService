@@ -1,0 +1,11 @@
+{
+	"Name": "fiberseries",
+	"DisplayName": "Fiber Series",
+	"Description": "Run this Run Fiber Series Backed",
+	"Dir": "C:\\fiberseries",
+	"Exec": "C:\\windows\\system32\\cmd.exe",
+	"Args": ["/C", "C:\\fiberseries\\fiberseries.exe"],
+	"Env": [],
+	"Stderr": "C:\\fiberseries\\fiberSeries_err.log",
+	"Stdout": "C:\\fiberseries\\fiberSeries_out.log"
+}
